@@ -1,0 +1,32 @@
+All cables core code is licenced under the MIT licence
+
+Some ops may be using code from contributors or external libraries under different licences.
+
+Additional code from contributors and libraries in this export are licenced as follows:
+
+MIT:
+
+- glmatrix by toji (https://github.com/toji/gl-matrix)
+- DRACO Compression Loader by three.js (https://github.com/mrdoob/three.js/blob/master/examples/jsm/loaders/DRACOLoader.js)
+
+Apache License:
+
+- BabylonJS Shader Code by Babylon.js (https://github.com/BabylonJS/Babylon.js/blob/master/license.md)
+- Filament Code by google (https://github.com/google/filament/blob/main/LICENSE)
+
+Public Domain:
+
+- Photoshop math GLSL shaders by Romain Dura (https://mouaif.wordpress.com/2009/01/05/photoshop-math-with-glsl-shaders/)
+
+ Apache-2.0 License :
+
+- draco - wasm wrapper (https://github.com/google/draco/tree/gltf_2.0_draco_extension)
+
+Apache-2.0:
+
+- teachablemachine_tf_speech_image_pose (https://github.com/googlecreativelab/teachablemachine-libraries)
+
+Apache:
+
+- mediapipe camera (https://cdn.jsdelivr.net/npm/@mediapipe/camera_utils/camera_utils.js)
+- mediapipe face mesh (https://cdn.jsdelivr.net/npm/@mediapipe/camera_utils/face_mesh.js)
